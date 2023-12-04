@@ -1,0 +1,2 @@
+[libraries]
+wireBom = "com.squareup.wire:wire-bom:4.9.2"
